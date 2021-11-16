@@ -1,8 +1,5 @@
-package cars;
+package day02.cars;
 
-import day02.cars.Car;
-import day02.cars.CarShop;
-import day02.cars.Color;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertFalse;
